@@ -1,0 +1,31 @@
+_repo: At-Last--A-Christmas-in-the-West-Indies_10669
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: Author and clergyman Charles Kingsley took a tour of the West Indies
+  in 1870, producing notes to become this narrative a year later. An account of his
+  travels, this is a fascinating and engaging look at travel in the late-nineteenth
+  century and the way in which the English though of the people of the West Indies.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2001'
+- !lcsh 'Trinidad -- Description and travel'
+- GITenberg
+title: 'At Last: A Christmas in the West Indies'
+url: http://www.gutenberg.org/ebooks/10669
